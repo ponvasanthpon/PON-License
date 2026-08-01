@@ -55,7 +55,7 @@ No, and it can't be. The Open Source Definition requires that redistribution and
 ```
 SPDX-License-Identifier: LicenseRef-PON-Licence-1.0
 Copyright (c) [Year] [Full Name]
-Full text and permission records: https://github.com/ponvasanth/pon-licence
+Full text and permission records: https://github.com/ponvasanthpon/pon-licence
 ```
 
 ## Reusing The Licence Text Itself
